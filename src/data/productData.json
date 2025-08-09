@@ -1,0 +1,76 @@
+{
+  "product": {
+    "id": 1,
+    "title": "Premium Wireless Bluetooth Headphones",
+    "description": "Experience crystal-clear audio with our premium wireless headphones. Featuring advanced noise cancellation technology, 30-hour battery life, and comfortable over-ear design. Perfect for music lovers, gamers, and professionals.",
+    "price": 299.99,
+    "originalPrice": 399.99,
+    "discount": 25,
+    "rating": 4.5,
+    "reviewCount": 2847,
+    "brand": "AudioTech Pro",
+    "availability": "In Stock",
+    "images": [
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&h=600",
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600",
+      "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&h=600",
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=600&h=600"
+    ],
+    "colors": [
+      { "name": "Midnight Black", "value": "#000000", "code": "black" },
+      { "name": "Silver Gray", "value": "#C0C0C0", "code": "silver" },
+      { "name": "Rose Gold", "value": "#E8B4B8", "code": "rose" },
+      { "name": "Ocean Blue", "value": "#4A90E2", "code": "blue" }
+    ],
+    "sizes": ["One Size"],
+    "features": [
+      "Active Noise Cancellation",
+      "30-hour battery life",
+      "Quick charge: 5 min = 3 hours",
+      "Bluetooth 5.0 connectivity",
+      "Built-in microphone",
+      "Foldable design"
+    ],
+    "specifications": {
+      "Weight": "250g",
+      "Dimensions": "19 x 16 x 8 cm",
+      "Battery": "30 hours playback",
+      "Connectivity": "Bluetooth 5.0, 3.5mm jack",
+      "Frequency Response": "20Hz - 20kHz"
+    }
+  },
+  "similarProducts": [
+    {
+      "id": 2,
+      "title": "Sport Wireless Earbuds",
+      "price": 149.99,
+      "originalPrice": 199.99,
+      "rating": 4.3,
+      "image": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Studio Monitor Headphones",
+      "price": 399.99,
+      "originalPrice": 499.99,
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 4,
+      "title": "Gaming Headset Pro",
+      "price": 199.99,
+      "originalPrice": 249.99,
+      "rating": 4.4,
+      "image": "https://images.unsplash.com/photo-1599669454699-248893623440?w=300&h=300&fit=crop"
+    },
+    {
+      "id": 5,
+      "title": "Compact Travel Headphones",
+      "price": 99.99,
+      "originalPrice": 129.99,
+      "rating": 4.2,
+      "image": "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=300&h=300&fit=crop"
+    }
+  ]
+}
