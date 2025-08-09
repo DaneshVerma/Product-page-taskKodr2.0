@@ -11,11 +11,12 @@
     "brand": "AudioTech Pro",
     "availability": "In Stock",
     "images": [
+      "https://images.unsplash.com/photo-1613040809024-b4ef7ba99bc3?w=600&h=600"  , 
       "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=600&h=600",
       "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=600&h=600",
       "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=600&h=600",
-      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=600&h=600"
-    ],
+      "https://images.unsplash.com/photo-1572536147248-ac59a8abfa4b?w=600&h=600",
+      "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb?w=600&h=600" ],
     "colors": [
       { "name": "Midnight Black", "value": "#000000", "code": "black" },
       { "name": "Silver Gray", "value": "#C0C0C0", "code": "silver" },
